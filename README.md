@@ -37,4 +37,4 @@ python manage.py runserver
 10. Open the link provided in the console in a web browser.
 
 ## Postman Collection
-Postman Collection is provided for basic test cases in the n2postman.json file. You can import it from Postman
+Postman Collection is provided for basic test cases in the N2Task.postman_collection.json file. You can import it from Postman
