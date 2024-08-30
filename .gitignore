@@ -1,0 +1,4 @@
+venv/
+n2TaskDB/
+__pycache__/
+migrations/
